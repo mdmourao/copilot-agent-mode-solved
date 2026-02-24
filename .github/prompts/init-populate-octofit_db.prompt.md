@@ -1,6 +1,6 @@
 ---
-mode: 'agent'
-model: GPT-4.1
+agent: agent
+model: Claude Sonnet 4.5 (copilot)
 description: 'Setup, configure, and populate the octofit_db database with test data for the Octofit Tracker Django app.'
 ---
 
